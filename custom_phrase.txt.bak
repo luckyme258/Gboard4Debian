@@ -9,7 +9,10 @@
 # 順序爲：文字、編碼、權重（決定重碼的次序、可選）
 #
 # no comment
+git push	gp	4
+git commit -m""	gc	3
 小米9	xm	2
+git add	ga	2
 M哥	mge	1
 一吻定情	yiw	1
 假面骑士	jiam	1
@@ -26,3 +29,13 @@ M哥	mge	1
 飞翔	feix	1
 如花似玉	ruhua	1
 飞花似雨，落我肩头	feih	1
+lxf159@qq.com	em	1
+Python	py	1
+Java	ja	1
+git status	gs	1
+AI	ai	1
+神秘博士	shenm	1
+神秘博士	sm	1
+老友记	laoy	1
+老友记	ly	1
+docker start	doc	1

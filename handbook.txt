@@ -1,0 +1,6 @@
+1.我的文件路径
+/home/jack/.config/ibus/rime
+2.文件名字
+custom_phrase.txt
+3.写入最新之后，更新配置
+ibus-daemon -drx
