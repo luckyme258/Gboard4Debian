@@ -38,4 +38,9 @@ AI	ai	1
 神秘博士	sm	1
 老友记	laoy	1
 老友记	ly	1
-docker start	doc	1
+docker start	dos	1
+fastboot devices	fd	1
+fastboot flash	ff	1
+adb devices	ad	1
+adb sideload	as	1
+亚极陀	yaj	1
