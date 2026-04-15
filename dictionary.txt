@@ -1,0 +1,19 @@
+# Gboard Dictionary version:2
+# Gboard Dictionary format:shortcut	word	language_tag	pos_tag
+xm	小米9	zh-CN	
+mge	M哥	zh-CN	
+yiw	一吻定情	zh-CN	
+jiam	假面骑士	zh-CN	
+zzz	假面骑士zzz	zh-CN	
+aotex	奥特兄弟	zh-CN	
+xm	小米13	zh-CN	
+chunf	春风得意马蹄疾，一日看尽长安花	zh-CN	
+rx	瑞幸咖啡	zh-CN	
+wae	瓦尔登湖	zh-CN	
+yif	疑犯追踪	zh-CN	
+hm	红米6Pro	zh-CN	
+mon	莫奈的向日葵	zh-CN	
+feil	飞流直下三千尺	zh-CN	
+feix	飞翔	zh-CN	
+ruhua	如花似玉	zh-CN	
+feih	飞花似雨，落我肩头	zh-CN	

@@ -1,0 +1,28 @@
+# Rime table
+# coding: utf-8
+#@/db_name custom_phrase.txt
+#@/db_type tabledb
+#
+# 用於『朙月拼音』系列輸入方案
+#
+# 碼表各字段以製表符（Tab）分隔
+# 順序爲：文字、編碼、權重（決定重碼的次序、可選）
+#
+# no comment
+小米9	xm	2
+M哥	mge	1
+一吻定情	yiw	1
+假面骑士	jiam	1
+假面骑士zzz	zzz	1
+奥特兄弟	aotex	1
+小米13	xm	1
+春风得意马蹄疾，一日看尽长安花	chunf	1
+瑞幸咖啡	rx	1
+瓦尔登湖	wae	1
+疑犯追踪	yif	1
+红米6Pro	hm	1
+莫奈的向日葵	mon	1
+飞流直下三千尺	feil	1
+飞翔	feix	1
+如花似玉	ruhua	1
+飞花似雨，落我肩头	feih	1
